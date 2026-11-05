@@ -1,0 +1,8 @@
+{
+  "name": "Remix Academic Attendance Tracker \u0026 Bunk Predictor",
+  "description": "Routine-aware academic attendance tracker, bunk and recovery predictor, and marks scaling engine with timetable automation and monthly reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
